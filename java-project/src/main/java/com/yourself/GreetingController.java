@@ -1,3 +1,4 @@
+// { autofold
 package com.yourself;
 
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -6,10 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-/**
- * Created by charlotte on 06/06/17.
- */
-
+//}
 @RestController
 public class GreetingController {
 

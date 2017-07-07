@@ -1,8 +1,6 @@
+// { autofold
 package com.yourself;
-
-/**
- * Created by charlotte on 06/06/17.
- */
+//}
 public class Greeting {
 
     public Greeting() {
