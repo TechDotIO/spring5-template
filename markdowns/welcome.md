@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/Spring5-template), p
 
 # Hands-on Demo
 
-@[Complete the controller to say "Hello, %name%"]({"stubs": ["src/main/java/com/yourself/GreetingController.java", src/main/java/com/yourself/Greeting.java], "command": "com.yourself.GreetingControllerTest#greetingsWithName"})
+@[Complete the controller to say "Hello, %name%"]({"stubs": ["src/main/java/com/yourself/GreetingController.java", "src/main/java/com/yourself/Greeting.java"], "command": "com.yourself.GreetingControllerTest#greetingsWithName"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/Spring5-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
