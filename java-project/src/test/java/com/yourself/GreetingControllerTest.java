@@ -58,6 +58,8 @@ public class GreetingControllerTest {
 
         assertNotNull("the JSON message converter must not be null",
                 this.mappingJackson2HttpMessageConverter);
+
+        System.out.println(String.format("TECHIO> message --channel \"%s\" \"%s\"", "test", "Message"));
     }
 
     @Before
