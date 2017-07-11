@@ -1,6 +1,6 @@
 # Welcome!
 
-This Spring 5 template lets you get started quickly with a simple working example using Maven and JUnit. A first exemple of rest service is provided. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+This Spring 5 template lets you get started quickly with a simple working example using Maven and JUnit. A first example of rest service is provided. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
 
 
 The source code is on [GitHub](https://github.com/TechDotIO/Spring5-template), please feel free to come up with proposals to improve it.

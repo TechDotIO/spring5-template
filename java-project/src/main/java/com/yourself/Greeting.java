@@ -1,6 +1,5 @@
-// { autofold
 package com.yourself;
-//}
+
 public class Greeting {
 
     public Greeting() {
