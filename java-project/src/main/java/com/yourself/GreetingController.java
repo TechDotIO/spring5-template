@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.atomic.AtomicLong;
 
+
 //}
 @RestController
 public class GreetingController {
@@ -19,4 +20,7 @@ public class GreetingController {
         return new Greeting(counter.incrementAndGet(),
                 "");//FIXME Use the string template to say "Hello, %name%"
     }
+
+
+
 }
